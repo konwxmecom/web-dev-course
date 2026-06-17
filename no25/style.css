@@ -1,0 +1,13 @@
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+   
+    background-color: #ec1313;
+    padding: 5px 10px;
+    list-style-position: inside;
+    border-radius: 5px;
+    border: 1px solid #000;
+    /* list-style-image: url("https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg"); */
+
+
+}
